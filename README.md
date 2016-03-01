@@ -1,5 +1,6 @@
 # PyTA
-Python for Text Analytics (or Textual Analysis or Text Analysis or whatever)
+
+*Python for Text Analytics (or Textual Analysis or Text Analysis or whatever)*
 
 Welcome to the repository for PyTA, which in keeping with Pythonic tradition is pronounced *pie-ta* ("pie" as in the dessert, and not, as the phonetic spelling might suggest to some, the genre of religious painting). This repository was specifically designed for this workshop, and so please feel free to clone it or download it as well as to make comments and recommendations for revision. That is, welcome to open access scholarship which is modelled on the spirit  and practices of open source software development, where everyone can, and sometimes does, make an important contribution. Some big, and some bigger than they first appear. (Starting, no matter how small, is always better than not starting.)
 
