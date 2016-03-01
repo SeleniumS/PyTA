@@ -15,7 +15,7 @@ It should be noted that there are other languages out there, and that they may b
 
 With all that noted, it's time to make sure we all have at least similar flavors of Python in front of us, which means we have to address the issue of operating systems. Instead of making this note longer, I have created two different texts (pages) on how to get Python up and running on Mac and Windows machines. (I trust the Linux users in the crowd have already gotten enough geek cred to get this done on their own, but do let me know if this is a foolish assumption on my part.)
 
-<a name="myfootnote1">1</a>:: I'm on StackOverflow [here][]. 
+<a name="myfootnote1">1</a>: I'm on StackOverflow [here][]. 
 
 [StackOverflow]: http://stackoverflow.com
 [previous workshop]: https://github.com/cpence/text-mining-workshop
