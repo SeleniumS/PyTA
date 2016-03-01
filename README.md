@@ -33,4 +33,4 @@ With all that noted, it's time to make sure we all have at least similar flavors
 [R]: https://www.r-project.org
 [Ruby]: https://www.ruby-lang.org/en/
 [Anaconda]: http://docs.continuum.io/anaconda/install
-[here]: (http://stackoverflow.com/users/1457672/john-laudun).
+[here]: http://stackoverflow.com/users/1457672/john-laudun
