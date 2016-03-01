@@ -1,9 +1,9 @@
 # PyTA
-Python for Text Analytics (or Textual Analysis or Text Analysis)
+Python for Text Analytics (or Textual Analysis or Text Analysis or whatever)
 
 Welcome to the repository for PyTA, which in keeping with Pythonic tradition is pronounced *pie-ta* ("pie" as in the dessert, and not, as the phonetic spelling might suggest to some, the genre of religious painting). This repository was specifically designed for this workshop, and so please feel free to clone it or download it as well as to make comments and recommendations for revision. That is, welcome to open access scholarship which is modelled on the spirit  and practices of open source software development, where everyone can, and sometimes does, make an important contribution. Some big, and some bigger than they first appear. (Starting, no matter how small, is always better than not starting.)
 
-The documents and scripts in this repository were developed, and are still in the process of development, not only as a path for you and others to follow, but also as a record of my own progress. Everywhere you look, you will actually see an almost infinite series of contributions from unseen others who have helped me either directly, by responding to questions on fora like [StackOverflow][], or indirectly by publishing notes on their blogs or creating repositories like this one or the one created by Charles Pence in the [previous workshop][].[^1]
+The documents and scripts in this repository were developed, and are still in the process of development, not only as a path for you and others to follow, but also as a record of my own progress. Everywhere you look, you will actually see an almost infinite series of contributions from unseen others who have helped me either directly, by responding to questions on fora like [StackOverflow][], or indirectly by publishing notes on their blogs or creating repositories like this one or the one created by Charles Pence in the [previous workshop][].<sup>[1](#myfootnote1)</sup>
 
 As the name of this repository confirms, in this workshop, we are not going to be operating at just any command line, but mostly in the Python interactive shell. There are a number of powerful scripting languages available to digital humanists, each of which has its particular strengths, and each of which also has its peculiarities, confusions, or moments of hair-pulling. For our purposes, I have decided to use Python for one, principled reason: its NLP library, known as the NLTK (natural language toolkit), is remarkably powerful, remarkably easy to use, and used not only by a large number of scholars and scientists but also a diverse range of scholars and scientists, so there is lots of documentation available. 
 
@@ -15,7 +15,7 @@ It should be noted that there are other languages out there, and that they may b
 
 With all that noted, it's time to make sure we all have at least similar flavors of Python in front of us, which means we have to address the issue of operating systems. Instead of making this note longer, I have created two different texts (pages) on how to get Python up and running on Mac and Windows machines. (I trust the Linux users in the crowd have already gotten enough geek cred to get this done on their own, but do let me know if this is a foolish assumption on my part.)
 
-[^1]: I'm on StackOverflow [here](http://stackoverflow.com/users/1457672/john-laudun).
+<a name="myfootnote1">1</a>:: I'm on StackOverflow[here][]. 
 
 [StackOverflow]: http://stackoverflow.com
 [previous workshop]: https://github.com/cpence/text-mining-workshop
@@ -25,3 +25,4 @@ With all that noted, it's time to make sure we all have at least similar flavors
 [the book]: http://shop.oreilly.com/product/9780596516499.do
 [R]: https://www.r-project.org
 [Ruby]: https://www.ruby-lang.org/en/
+[here](http://stackoverflow.com/users/1457672/john-laudun).
