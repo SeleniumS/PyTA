@@ -25,4 +25,4 @@ With all that noted, it's time to make sure we all have at least similar flavors
 [the book]: http://shop.oreilly.com/product/9780596516499.do
 [R]: https://www.r-project.org
 [Ruby]: https://www.ruby-lang.org/en/
-[here](http://stackoverflow.com/users/1457672/john-laudun).
+[here]: (http://stackoverflow.com/users/1457672/john-laudun).
