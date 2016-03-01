@@ -1,0 +1,3 @@
+# Installing Python on Windows
+
+Unlike the Mac users (who even now surround you), 

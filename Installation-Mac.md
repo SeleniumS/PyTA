@@ -1,4 +1,4 @@
-# Python on Mac
+# Installing Python on a Mac
 
 First, in case you didn't know it, the modern Mac operating system -- the one they insist keeping as X (as in OH ESS EX, now, "eleven") -- is really just a pretty face for Unix. That is, it is POSIX-compliant, which is probably something that will never mean much to you, except when you want to extend the functionality of the OS and you discover there is just a lot, a lot of stuff already built for you. 
 
