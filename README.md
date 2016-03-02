@@ -18,9 +18,11 @@ It should be noted that there are other languages out there, and that they may b
 
 ## Installation(s)
 
-With all that noted, it's time to make sure we all have at least similar flavors of Python in front of us, which means we have to address the issue of operating systems. Instead of making this note longer, I have created two different texts (pages) on how to get Python up and running on Mac and Windows machines. (I trust the Linux users in the crowd have already gotten enough geek cred to get this done on their own, but do let me know if this is a foolish assumption on my part.)
+With all that noted, it's time to make sure we all have at least similar flavors of Python in front of us, which means we have to address the issue of operating systems. Instead of making this note longer, I have created two different texts (pages) on how to get Python up and running on Mac and Windows machines. (I trust the Linux users in the crowd have enough geek cred to get this done on their own, but do let me know if this is a foolish assumption on my part.)
 
-**Nota bene**: while preparing installation instructions for Windows users, I came across [Anaconda][], which has the version of Python with which we will be working as well as all the libraries upon which we will be calling. And it appears to be an *All-in-One* solution. I will try it myself before our workshop, but if anyone would like to give it a try and see what difficulties, if any, you encounter, I would be very grateful. (If it only works for Windows users, it will be a huge step forward.)
+**Nota bene**: While preparing installation instructions for Windows users, I came across [Anaconda][], which has the version of Python with which we will be working as well as all the libraries upon which we will be calling. And it appears to be an *All-in-One* solution. I will try it myself before our workshop, but if anyone would like to give it a try and see what difficulties, if any, you encounter, I would be very grateful. (If it only works for Windows users, it will be a huge step forward.)
+
+**Follow-up**: I downloaded and installed Anaconda on the Mac Mini in our kitchen. It's a large download at 1.25GB, but it it does the job. Follow the instructions provided on Continuum.io site, and you should have what you need in short order. On our kitchen computer, Anaconda placed a *Launcher* icon on the desktop, which I moved to the Dock. Starting the *Launcher* opens a somewhat confusing window, but iPython (now Jupyter) notebooks are an option, and I will, I hope, be providing users with a notebook from which to work.
 
 <sup>1</sup> I'm on StackOverflow [here][]. 
 
