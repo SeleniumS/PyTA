@@ -6,7 +6,7 @@
 
 Welcome to the repository for PyTA, which in keeping with Pythonic tradition is pronounced *pie-ta* ("pie" as in the dessert, and not, as the phonetic spelling might suggest to some, the genre of religious painting). This repository was specifically designed for this workshop, and so please feel free to clone it or download it as well as to make comments and recommendations for revision. That is, welcome to open access scholarship which is modelled on the spirit  and practices of open source software development, where everyone can, and sometimes does, make an important contribution. Some big, and some bigger than they first appear. (Starting, no matter how small, is always better than not starting.)
 
-The documents and scripts in this repository were developed, and are still in the process of development, not only as a path for you and others to follow, but also as a record of my own progress. Everywhere you look, you will actually see an almost infinite series of contributions from unseen others who have helped me either directly, by responding to questions on fora like [StackOverflow][], or indirectly by publishing notes on their blogs or creating repositories like this one or the one created by Charles Pence in the [previous workshop][].<sup>1</sup>
+The documents and scripts in this repository were developed, and are still in the process of development, not only as a path for you and others to follow, but also as a record of my own progress. Everywhere you look, you will actually see an almost infinite series of contributions from unseen others who have helped me either directly, by responding to questions on fora like [StackOverflow][], or indirectly by publishing notes on their blogs or creating repositories like this one or the one created by Charles Pence in the [previous workshop][]. (You can find me on StackOverflow [here][].)
 
 As the name of this repository confirms, in this workshop, we are not going to be operating at just any command line, but mostly in the Python interactive shell. There are a number of powerful scripting languages available to digital humanists, each of which has its particular strengths, and each of which also has its peculiarities, confusions, or moments of hair-pulling. For our purposes, I have decided to use Python for one, principled reason: its NLP library, known as the NLTK (natural language toolkit), is remarkably powerful, remarkably easy to use, and used not only by a large number of scholars and scientists but also a diverse range of scholars and scientists, so there is lots of documentation available. 
 
@@ -18,15 +18,15 @@ It should be noted that there are other languages out there, and that they may b
 
 ## Installation(s)
 
-With all that noted, it's time to make sure we all have at least similar flavors of Python in front of us, which means we have to address the issue of operating systems. Instead of making this note longer, I have created two different texts (pages) on how to get Python up and running on Mac and Windows machines. (I trust the Linux users in the crowd have enough geek cred to get this done on their own, but do let me know if this is a foolish assumption on my part.)
+While preparing separate installation instructions for Mac and Windows users, I came across [Anaconda][], which has the version of Python with which we will be working as well as all the libraries upon which we will be calling. And, perhaps more importantly, it is an *All-in-One* solution. I downloaded and installed Anaconda on the Mac Mini in my kitchen, and, while it's a large download at 1.25GB, it it does the job. Follow the instructions provided on Continuum.io's site, and you should have what you need in short order. On our kitchen computer, Anaconda placed a *Launcher* icon on the desktop, which I moved to the Dock. Starting the *Launcher* opens a somewhat confusing window, but iPython (now Jupyter) notebooks are an option, and I will be providing users with a notebook from which to work. (It is, in fact, here in this repository.)
 
-**Nota bene**: While preparing installation instructions for Windows users, I came across [Anaconda][], which has the version of Python with which we will be working as well as all the libraries upon which we will be calling. And it appears to be an *All-in-One* solution. I will try it myself before our workshop, but if anyone would like to give it a try and see what difficulties, if any, you encounter, I would be very grateful. (If it only works for Windows users, it will be a huge step forward.)
+With that noted, if you are interested in how I install and setup Python on my workhorse laptop, then a complete description is available in the [Mac Installations][]. 
 
-**Follow-up**: I downloaded and installed Anaconda on the Mac Mini in our kitchen. It's a large download at 1.25GB, but it it does the job. Follow the instructions provided on Continuum.io site, and you should have what you need in short order. On our kitchen computer, Anaconda placed a *Launcher* icon on the desktop, which I moved to the Dock. Starting the *Launcher* opens a somewhat confusing window, but iPython (now Jupyter) notebooks are an option, and I will, I hope, be providing users with a notebook from which to work.
-
-<sup>1</sup> I'm on StackOverflow [here][]. 
+My apologies to the Linux users in the crowd: I just assumed you have enough nerdery to get this done on your own, but do let me know if this is a foolish assumption on my part.
+ 
 
 [StackOverflow]: http://stackoverflow.com
+[here]: http://stackoverflow.com/users/1457672/john-laudun
 [previous workshop]: https://github.com/cpence/text-mining-workshop
 [O'Reilly Store]: http://shop.oreilly.com/product/9780596516499.do
 [Amazon]: http://amzn.to/1OMa1Gx
@@ -35,4 +35,4 @@ With all that noted, it's time to make sure we all have at least similar flavors
 [R]: https://www.r-project.org
 [Ruby]: https://www.ruby-lang.org/en/
 [Anaconda]: http://docs.continuum.io/anaconda/install
-[here]: http://stackoverflow.com/users/1457672/john-laudun
+[Mac Installations]: https://github.com/johnlaudun/PyTA/blob/master/Installation-Mac.md
